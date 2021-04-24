@@ -1,4 +1,8 @@
 # ElenaP-Github-Python-Data-Analysis-Science-projects
+- Car insurance project:
+
+A profit and loss analysis 
+
 - Customer Retention Analysis:
 
 Given a Database I had to find the features which more can help for the retention of clients
