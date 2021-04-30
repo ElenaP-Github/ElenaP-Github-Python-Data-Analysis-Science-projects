@@ -3,6 +3,8 @@
 - Wine Quality prediction:
 
 Given several physicochemical values from a White Wine brand, I develope a data driven model based a logistic regression and support vector machine in order to classify the quality of the product.
+
+
 Click here for seeing the project: https://github.com/ElenaP-Github/ORIGINAL-Python-Data-Analysis-projects/blob/main/White%20wine%20logistic%20regression--.ipynb
 
 
