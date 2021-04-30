@@ -4,9 +4,11 @@
 
 
 
-- Car insurance project:https://github.com/ElenaP-Github/ORIGINAL-Python-Data-Analysis-projects/blob/main/Car%20insurance%20by%20Elena%20Pe%C3%B1a.ipynb
-
+- Car insurance project
 A profit and loss analysis 
+
+
+https://github.com/ElenaP-Github/ORIGINAL-Python-Data-Analysis-projects/blob/main/Car%20insurance%20by%20Elena%20Pe%C3%B1a.ipynb
 
 - Customer Retention Analysis:
 
