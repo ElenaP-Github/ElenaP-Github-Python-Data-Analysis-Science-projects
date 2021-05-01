@@ -10,11 +10,7 @@ Click here for seeing the project: https://github.com/ElenaP-Github/ORIGINAL-Pyt
 
 - Car insurance project: A profit and loss analysis 
 
-Given a data case with 20 car insurance companies values. I had to explain the total ganancies of them during one year.
-
-    Have the entrepreneurs had more in damage than in deposit?
-    Can certain effects be predicted?
-    Does the number of damages have something to do with the damage behavior.
+Given a data case with 20 car insurance companies values. I had to explain if they had more ganancies than damages during one year and which effects can be predicted.
 
 Click here for seeing the project: https://github.com/ElenaP-Github/ORIGINAL-Python-Data-Analysis-projects/blob/main/Car%20insurance%20by%20Elena%20Pe%C3%B1a.ipynb
 
