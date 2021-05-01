@@ -25,6 +25,16 @@ Given a Database I had to find the features which more can help for the retentio
 
 Click here for seeing the project: https://github.com/ElenaP-Github/ORIGINAL-Python-Data-Analysis-projects/blob/main/Customer%20retention%20analysis%20Elena%20Pe%C3%B1a.rar  then click on "View raw" and download zip file
 
+- Customer Retention Analysis(II):
+
+Given a Database I analyzed how long two different customer groups were using a online service.
+     - Churn: binary variable. Whether the customer left or not the online service
+     - Tenure: the number of months. The cases are filtered by this variable fom 0 months to 72 months.
+     - SeniorCitizen: binary category, I decided to rename it as "Subscription". 0 for Subscription Standard and 1 for Subscription Premium
+     
+Click here for seeing the project:https://github.com/ElenaP-Github/ORIGINAL-Python-Data-Analysis-projects/blob/main/simple%20customer%20retention%20analysis.ipynb 
+
+
 
 - Infart disease Studie:
 
