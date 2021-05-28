@@ -1,5 +1,13 @@
 # ElenaP-Github-Python-Data-Analysis-Science-projects
 
+![imagen](https://user-images.githubusercontent.com/70054118/120039982-18013080-c006-11eb-9117-2d3be049c863.png)
+
+
+![imagen](https://user-images.githubusercontent.com/70054118/120039926-fef87f80-c005-11eb-8289-fcef8f6a1474.png)
+
+
+
+
 - Wine Quality prediction:
 
 Given several physicochemical values from a White Wine brand, I develope a data driven model based a logistic regression and support vector machine in order to classify the quality of the product.
@@ -44,3 +52,14 @@ The goal of this project is to predict the presence of heart disease using a log
 Checking out the basics chart on both the most used Python packages
 
 [Click here for seeing the project:](https://github.com/ElenaP-Github/ORIGINAL-Python-Data-Analysis-projects/blob/main/pandas%20and%20numpy%20overview.ipynb)
+
+
+
+
+
+![imagen](https://user-images.githubusercontent.com/70054118/120039876-e5efce80-c005-11eb-9052-37c0f8f68777.png)
+
+
+
+
+[Creating a new database using MySQL](https://github.com/ElenaP-Github/ORIGINAL-Python-Data-Analysis-projects/blob/main/clinic_sql_proyect.sql)
