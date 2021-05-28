@@ -1,3 +1,7 @@
+
+
+
+
 #Import the data: Create a SQL database using the attached CSV files
 # ‘ assignment_data_clinic_group.csv’ contains clinic group data (clinic IDs and ClinicGroups)
 #‘ assignment_data_clinics_with_patients.csv’ contains patient/clinic data (patient IDs, clinic title, clinic IDs, patient created at date and patient deleted at date)
