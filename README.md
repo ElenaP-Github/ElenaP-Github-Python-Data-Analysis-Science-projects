@@ -2,6 +2,7 @@
 
 ![imagen](https://user-images.githubusercontent.com/70054118/120040060-38c98600-c006-11eb-91dc-d4a7c6f66fc1.png)
 ![imagen](https://user-images.githubusercontent.com/70054118/120039926-fef87f80-c005-11eb-8289-fcef8f6a1474.png)
+![imagen](https://user-images.githubusercontent.com/70054118/120040224-7201f600-c006-11eb-8b54-b14725d0c535.png)
 
 
 
@@ -53,6 +54,5 @@ Checking out the basics chart on both the most used Python packages
 
 
 
-![imagen](https://user-images.githubusercontent.com/70054118/120040224-7201f600-c006-11eb-8b54-b14725d0c535.png)
 
 [Creating a new database using MySQL](https://github.com/ElenaP-Github/ORIGINAL-Python-Data-Analysis-projects/blob/main/clinic_sql_proyect.sql)
