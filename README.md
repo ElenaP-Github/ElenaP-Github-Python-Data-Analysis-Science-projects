@@ -1,8 +1,6 @@
 # ElenaP-Github-Python-Data-Analysis-Science-projects
 
-![imagen](https://user-images.githubusercontent.com/70054118/120039982-18013080-c006-11eb-9117-2d3be049c863.png)
-
-
+![imagen](https://user-images.githubusercontent.com/70054118/120040060-38c98600-c006-11eb-91dc-d4a7c6f66fc1.png)
 ![imagen](https://user-images.githubusercontent.com/70054118/120039926-fef87f80-c005-11eb-8289-fcef8f6a1474.png)
 
 
@@ -55,10 +53,7 @@ Checking out the basics chart on both the most used Python packages
 
 
 
-
-
-![imagen](https://user-images.githubusercontent.com/70054118/120039876-e5efce80-c005-11eb-9052-37c0f8f68777.png)
-
+![imagen](https://user-images.githubusercontent.com/70054118/120040112-4c74ec80-c006-11eb-9a62-0cbadc4b62cb.png)
 
 
 
