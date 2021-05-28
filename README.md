@@ -53,8 +53,6 @@ Checking out the basics chart on both the most used Python packages
 
 
 
-![imagen](https://user-images.githubusercontent.com/70054118/120040112-4c74ec80-c006-11eb-9a62-0cbadc4b62cb.png)
-
-
+![imagen](https://user-images.githubusercontent.com/70054118/120040224-7201f600-c006-11eb-8b54-b14725d0c535.png)
 
 [Creating a new database using MySQL](https://github.com/ElenaP-Github/ORIGINAL-Python-Data-Analysis-projects/blob/main/clinic_sql_proyect.sql)
