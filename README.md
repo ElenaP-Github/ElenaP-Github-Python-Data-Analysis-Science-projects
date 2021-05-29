@@ -55,5 +55,5 @@ Checking out the basics chart on both the most used Python packages
 - Online Clinic Treatment 
 
 
-[SQL and Tableau results and explanations]: (https://github.com/ElenaP-Github/ORIGINAL-Python-Data-Analysis-projects/blob/main/SQLandTableau_assessment_presentation.pdf)
+[SQL and Tableau results and explanations:](https://github.com/ElenaP-Github/ORIGINAL-Python-Data-Analysis-projects/blob/main/SQLandTableau_assessment_presentation.pdf)
 [SQL code](https://github.com/ElenaP-Github/ORIGINAL-Python-Data-Analysis-projects/blob/main/clinic_sql_proyect.sql)
