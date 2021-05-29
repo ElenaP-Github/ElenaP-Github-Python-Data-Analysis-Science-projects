@@ -52,6 +52,8 @@ Checking out the basics chart on both the most used Python packages
 [Click here for seeing the project:](https://github.com/ElenaP-Github/ORIGINAL-Python-Data-Analysis-projects/blob/main/pandas%20and%20numpy%20overview.ipynb)
 
 
+- Online Clinic Treatment 
 
 
-[Creating a new database using MySQL](https://github.com/ElenaP-Github/ORIGINAL-Python-Data-Analysis-projects/blob/main/clinic_sql_proyect.sql)
+[SQL and Tableau results and explanations]: (https://github.com/ElenaP-Github/ORIGINAL-Python-Data-Analysis-projects/blob/main/SQLandTableau_assessment_presentation.pdf)
+[SQL code](https://github.com/ElenaP-Github/ORIGINAL-Python-Data-Analysis-projects/blob/main/clinic_sql_proyect.sql)
