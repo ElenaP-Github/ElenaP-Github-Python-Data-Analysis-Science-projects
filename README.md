@@ -30,6 +30,7 @@ Given a Database I had to find the features which more can help for the retentio
 - Customer Retention Analysis(II):
 
 Given a Database I analyzed how long two different customer groups were using a online service. Survival analysis with COX REGRESSION
+
      - Churn: binary variable. Whether the customer left or not the online service
      - Tenure: the number of months. The cases are filtered by this variable fom 0 months to 72 months.
      - SeniorCitizen: binary category, I decided to rename it as "Subscription". 0 for Subscription Standard and 1 for Subscription Premium
