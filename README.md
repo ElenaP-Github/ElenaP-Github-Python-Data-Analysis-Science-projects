@@ -23,13 +23,14 @@ Given a data case with 20 car insurance companies values. I had to explain if th
 
 - Customer Retention Analysis(I):
 
-Given a Database I had to find the features which more can help for the retention of clients
+Given a Database I had to find the features which more can help for the retention of clients. Survival analysis with multiple COX REGRESSION
+
 
 [Click here for seeing the project:](https://github.com/ElenaP-Github/ORIGINAL-Python-Data-Analysis-projects/blob/main/Customer%20retention%20analysis%20Elena%20Pe%C3%B1a.rar)  then click on "View raw" and download zip file
 
 - Customer Retention Analysis(II):
 
-Given a Database I analyzed how long two different customer groups were using a online service. Survival analysis with COX REGRESSION
+Given a Database I analyzed how long two different customer groups were using a online service. Survival analysis with simple COX REGRESSION
 
      - Churn: binary variable. Whether the customer left or not the online service
      - Tenure: the number of months. The cases are filtered by this variable fom 0 months to 72 months.
